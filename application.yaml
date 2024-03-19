@@ -13,7 +13,7 @@ spec:
   source:
     chart: nginx
     repoURL: https://charts.bitnami.com/bitnami
-    targetRevision: 15.14.0
+    targetRevision: 15.13.0
     helm:
       releaseName: nginx
   destination:
